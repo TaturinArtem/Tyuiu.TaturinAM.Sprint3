@@ -1,0 +1,11 @@
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\bin\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.exe.config
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\bin\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.exe
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\bin\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\bin\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.Lib.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\bin\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.Lib.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\obj\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.csproj.AssemblyReference.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\obj\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.csproj.CoreCompileInputs.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\obj\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.csproj.CopyComplete
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\obj\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.exe
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint3\Tyuiu.TaturinAM.Sprint3.Task7.V21\obj\Debug\Tyuiu.TaturinAM.Sprint3.Task7.V21.pdb
